@@ -1,5 +1,5 @@
 streamlit
 streamlit-webrtc
 
---force-reinstall numpy==1.23.0
---force-reinstall opencv-python-headless==4.10.0.84
+numpy==1.23.0
+opencv-python-headless==4.10.0.84
